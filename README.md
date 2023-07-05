@@ -5,12 +5,8 @@
   <h1> ꧁• 𝓞𝓵𝓪! 👋 𝓜𝓮𝓾 𝓷𝓸𝓶𝓮 é 𝓛𝓲𝓻𝓪 𝓖𝓾𝓮𝓭𝓮𝓼 •꧂</h1> -->
 </div>
 
-- 🔭  Estudante de Desenvolvimento Web na Trybe
+- 🔭  Estudante de Desenvolvimento Web
 - 🌎  Belo Horizonte - MG - 🇧🇷
--
--
-- 
-
 
   ##
 
