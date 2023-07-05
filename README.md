@@ -7,6 +7,9 @@
 
 - 🔭  Estudante de Desenvolvimento Web na Trybe
 - 🌎  Belo Horizonte - MG - 🇧🇷
+-
+-
+- 
 
 
   ##
