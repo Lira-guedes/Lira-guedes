@@ -28,6 +28,10 @@
   <img  alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  alt="Rafa-CSS"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  height="40" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+  <img alt="Docker" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="sequelize" height="40" width="40" src="https://www.svgrepo.com/show/354333/sequelize.svg">
+  <img alt="nodejs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
 
 ##
