@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1> • 𝕆𝕝𝕒! 𝕄𝕖𝕦 𝕟𝕠𝕞𝕖 é 𝕃𝕚𝕣𝕒 𝔾𝕦𝕖𝕕𝕖𝕤 • </h1>
-🔭  Estudante de Desenvolvimento Web / 🌎 Belo Horizonte - MG - 🇧🇷
+🔭  Sou estudante de Desenvolvimento Full Stack / 🌎 Belo Horizonte - MG - 🇧🇷
 </div>
 
   ##
