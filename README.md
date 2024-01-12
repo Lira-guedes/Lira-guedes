@@ -1,12 +1,13 @@
 
 <div align="center">
   <img src="/capa1.png" width="990" height="270">
-<!--   <h1> • 𝕆𝕝𝕒! 𝕄𝕖𝕦 𝕟𝕠𝕞𝕖 é 𝕃𝕚𝕣𝕒 𝔾𝕦𝕖𝕕𝕖𝕤 • </h1>
-🔭  Sou estudante de Desenvolvimento Full Stack / 🌎 Belo Horizonte - MG - 🇧🇷 -->
+  <div>
+    <h4> • 🔭  Estudante de Desenvolvimento Web / 🌎 Belo Horizonte - MG - 🇧🇷 • </h4>
+  </div>
 </div>
 
-  ##
-
+ ##
+ 
   <div align="center">
   <a href="https://github.com/Lira-guedes">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lira-guedes&theme=dracula&hide_border=false&&layout=compact"/>
