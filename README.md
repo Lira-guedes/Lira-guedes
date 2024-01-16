@@ -2,7 +2,7 @@
 <div align="center">
   <img src="/capa1.png" width="990" height="270">
   <div>
-    <h3> • 🔭  Estudante de Desenvolvimento Web / 🌎 Belo Horizonte - MG - 🇧🇷 / liracrg@gmail.com • </h3>
+    <h3> • 🔭  Estudante de Desenvolvimento Web / 🌎 Belo Horizonte - MG - 🇧🇷 • </h3>
   </div>
 </div>
 
