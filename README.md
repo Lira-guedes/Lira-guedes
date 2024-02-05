@@ -2,7 +2,7 @@
 <div align="center">
   <img src="/capa1.png" width="990" height="250">
   <div>
-    <h3> • 🔭  Estudante de Desenvolvimento Web / 🌎 Belo Horizonte - MG - 🇧🇷 • </h3>
+    <h3> ⫷  Estudante de Desenvolvimento Web / Belo Horizonte - MG 🇧🇷  ⫸ </h3>
   </div>
 </div>
 
@@ -39,14 +39,14 @@
 ##
 
  <div align="center" ><br>
-    <a href="https://www.instagram.com/lira_guedes/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--     <a href="https://www.instagram.com/lira_guedes/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 <!--  <a href="" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:liracrg@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35" width="140"></a>
   <a href="https://www.linkedin.com/in/lira-raj%C3%A3o-guedes-146122196/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35" width="150"></a>
 
    ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
