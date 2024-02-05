@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="/capa1.png" width="990" height="270">
+  <img src="/capa1.png" width="990" height="250">
   <div>
     <h3> • 🔭  Estudante de Desenvolvimento Web / 🌎 Belo Horizonte - MG - 🇧🇷 • </h3>
   </div>
